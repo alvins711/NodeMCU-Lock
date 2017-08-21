@@ -12,8 +12,8 @@ void startHttpServer();
 void turnOnRelay();
 void turnOffRelay();
 
-const char* ssid = "ASHome";
-const char* password = "il@9dach";
+const char* ssid = "****";
+const char* password = "****";
 
 unsigned int localPort = 1900;      // local port to listen on
 
